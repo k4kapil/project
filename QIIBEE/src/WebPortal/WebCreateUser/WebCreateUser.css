@@ -1,0 +1,35 @@
+.createUser{
+    background-color: white;
+    width: 50%;
+    margin: 5% auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  height: 90%;
+}
+/* .createUserButton>p{
+        background: linear-gradient(to right,#ece479,#fed566);
+        padding: 15px 40px;
+        border-radius: 50px;
+        color: black;
+        cursor: pointer;
+        align-items: center;
+        max-width: 100px;
+        align-items: center;
+} */
+.size{
+    margin:8% auto;
+    width: 90%;
+  }
+  .feilds{
+    padding-bottom: 4%;
+  }
+  .continue{
+    padding-top: 2% !important;
+    padding-bottom: 2% !important;
+    background-color: #045F86 !important;
+  }
+  .continue:hover{
+    background-color: #066c98 !important;
+    color: white !important;
+  }

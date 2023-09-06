@@ -1,0 +1,59 @@
+.app{
+  background-color: rgb(0, 221, 255);
+  min-height: 100vh;
+  max-width: 100vw;
+  background-repeat: no-repeat;
+  background-image: url(./asset/loyality2.jpg);
+  background-size: 100%;
+  margin-bottom: 0!important;
+  
+}
+.appLoyalty{
+  background-color: rgb(0, 221, 255);
+  min-height: 100vh;
+  max-width: 100vw;
+  background-repeat: no-repeat;
+  /* background-image: url(./asset/loyality2.jpg); */
+  background-size: 100%;
+  margin-bottom: 0!important;
+  
+}
+.appWeb{
+  background-color: rgb(0, 221, 255);
+  min-height: 100vh;
+  max-width: 100vw;
+  background-repeat: no-repeat;
+  background-image: url(./asset/loyality2.jpg);
+  background-size: 100%;
+  margin-bottom: 0!important;
+  
+}
+.appHome{
+  background-color: rgb(0, 221, 255);
+  min-height: 100vh;
+  max-width: 100vw;
+  background-repeat: no-repeat;
+  /* background-image: url(./asset/loyality2.jpg); */
+  background-size: 100%;
+  margin-bottom: 0!important;
+  padding-bottom: 3%;
+}
+.appComponent{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 90%;
+  margin: 20px auto;
+  min-height: 100vh;
+}
+/* .appMain{
+  background:fixed;
+  min-height: 100vh;
+  max-width: 100vw;
+  background-repeat: no-repeat;
+  background-image: url(./asset/money.jpg);
+  background-size: 100%;
+}
+.g{
+ background-image: linear-gradient(rgb(33, 32, 32) , rgb(82, 81, 81), rgb(162, 161, 161),);
+} */

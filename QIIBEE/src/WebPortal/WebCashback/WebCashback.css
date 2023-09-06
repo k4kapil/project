@@ -1,0 +1,63 @@
+.balanceBox{
+    width: 50%;
+    color: black;
+    justify-content: space-between;
+    display: flex;
+    /* padding-top: 10px; */
+    /* padding-bottom: 10px;   */
+}
+.balanceHeader{
+    width: 50%;
+    color: black;
+margin-left: auto;
+margin-right: auto;
+    display: flex;
+    /* padding-top: 10px; */
+    /* padding-bottom: 10px;   */
+}
+.balanceHeader>h2{
+    color: white;
+}
+.balanceCard{
+    width: 90%;
+    margin: 10px auto;
+    background-color:black!important;
+    cursor: pointer;
+    color:#fd0 !important;
+    border-bottom:4px solid black ;
+    border-radius: 10px 10px 1500px 1500px !important;
+    /* height: 100px !important; */
+}
+.collapseCard{
+    padding-bottom: 50px;
+    height: 160px;
+}
+.collapseCard p{
+    font-size: 1rem !important;
+}
+.cardHeader{
+    padding:30px !important;
+}
+.expand{
+    height: 10px;
+    margin: 1% auto !important;
+width: 10%;
+/* align-items: center; */
+}
+.expandButton{
+    margin: 1px auto;
+    color: #fd0;
+}
+.expandButton:active{
+    color:black;
+}
+.pb-grid-content{
+    min-height: 220px;
+    padding-right: 10px;
+    padding-left: 10px;
+        background-color: #fff;
+    padding: 15px;
+    padding-top: 4px;
+    padding-bottom: 24px;
+    
+}
